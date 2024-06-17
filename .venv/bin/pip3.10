@@ -1,4 +1,4 @@
-#!/home/aiml-machine/AiML-Projects/nn_deploy/.venv/bin/python3
+#!/home/alina26/ML-Projects/nn_deploy/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
