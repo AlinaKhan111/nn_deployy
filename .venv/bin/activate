@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/alina26/ML-Projects/nn_deploy/.venv"
+VIRTUAL_ENV="/home/alina26/ML-Projects/nn_deployy/.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
